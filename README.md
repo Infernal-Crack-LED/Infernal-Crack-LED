@@ -1,6 +1,6 @@
 # Hi, I'm Max 👋
 
-I'm an independent developer who builds self-hosted AI systems and tools.
+I'm an independent developer who builds self-hosted AI systems and tools, along with some passion projects for games I like.
 
 If you host a discord server for Nikke, take a look at my current project: **[Maiden](https://github.com/Infernal-Crack-LED/bakery-bot)** — a NIKKE: Goddess of Victory info & strategy Discord bot that serves up character data on demand. It is created for my union cluster, Maiden's Bakery, but can function in any Nikke-oriented server.
 
